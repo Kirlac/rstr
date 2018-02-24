@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Reddit Spoiler Tooltip Remover (RSTR)
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      0.2
 // @description  Removes the tooltip that shows when hovering over a spoiler tag on Reddit
 // @author       Kirlac
 // @match        http*://www.reddit.com/r/*
